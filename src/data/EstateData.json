@@ -1,0 +1,346 @@
+ [
+    {
+      "name": "Luxury Villa by the Sea",
+      "address": "123 Ocean View Drive",
+      "city": "Beachtown",
+      "state": "California",
+      "zipcode": "90210",
+      "features": {
+        "bathrooms": 4,
+        "bedrooms": 6,
+        "sq_ft": 5000,
+        "amenities": ["Swimming Pool", "Private Beach Access", "Gym", "Jacuzzi"],
+        "services": ["Housekeeping", "Private Chef on Request"]
+      },
+      "price_per_day": 1500,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSfZTa1X-TC9KMhTH42XytlEK0iXTSFUWbQ&usqp=CAU",
+      "rental_type": "villa"
+    },
+    {
+      "name": "Downtown Loft",
+      "address": "456 Urban Avenue",
+      "city": "Cityville",
+      "state": "New York",
+      "zipcode": "10001",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 1,
+        "sq_ft": 1000,
+        "amenities": ["Gym", "Concierge Service", "Rooftop Terrace"],
+        "services": ["24/7 Security", "Cleaning Service"]
+      },
+      "price_per_day": 300,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/c87c0f17-3159-4619-b408-2a368618d7a9.jpeg?im_w=720",
+      "rental_type": "apartment"
+    },
+    {
+      "name": "Mountain Chalet Retreat",
+      "address": "789 Serenity Lane",
+      "city": "Woodland",
+      "state": "Colorado",
+      "zipcode": "80401",
+      "features": {
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "sq_ft": 3000,
+        "amenities": ["Hot Tub", "Fireplace", "Mountain Views"],
+        "services": ["Snow Removal", "Property Management"]
+      },
+      "price_per_day": 600,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOzSNtAdTG5HNhob4EbRygwZiZ1HTc8k2dA&usqp=CAU",
+      "rental_type": "chalet"
+    },
+    {
+      "name": "Beachfront Bungalow",
+      "address": "10 Sandy Shores Lane",
+      "city": "Seaside",
+      "state": "Florida",
+      "zipcode": "33010",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "sq_ft": 2000,
+        "amenities": ["Private Beach Access", "Tropical Garden", "Outdoor Dining"],
+        "services": ["Housekeeping", "Beach Equipment Rental"]
+      },
+      "price_per_day": 800,
+      "image_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51076362/original/13ed0502-2473-4d4b-a9e7-17240eb701d8.jpeg?im_w=720",
+      "rental_type": "mansion"
+    },
+    {
+      "name": "Urban Penthouse",
+      "address": "555 Skyline Drive",
+      "city": "Metropolis",
+      "state": "Illinois",
+      "zipcode": "60601",
+      "features": {
+        "bathrooms": 3,
+        "bedrooms": 2,
+        "sq_ft": 1800,
+        "amenities": ["City Views", "Private Elevator", "Gourmet Kitchen"],
+        "services": ["Concierge", "Security"]
+      },
+      "price_per_day": 700,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKfidJ8JVVCpuG7hFQ1PuDYK8-ZfBmAmR4w&usqp=CAU",
+      "rental_type": "villa"
+    },
+    {
+      "name": "Riverside Cabin",
+      "address": "88 Tranquil Trail",
+      "city": "Riverdale",
+      "state": "Montana",
+      "zipcode": "59001",
+      "features": {
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "sq_ft": 1200,
+        "amenities": ["River Views", "Outdoor Deck", "Fire Pit"],
+        "services": ["Cleaning Service", "Guided Fishing Tours"]
+      },
+      "price_per_day": 400,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-31049657/original/37d0a827-358b-4551-859b-e6a64c8e7f1d.jpeg?im_w=720",
+      "rental_type": "cabin"
+    },
+    {
+      "name": "Ski Lodge Retreat",
+      "address": "777 Snowy Slope Way",
+      "city": "Alpine",
+      "state": "Utah",
+      "zipcode": "84001",
+      "features": {
+        "bathrooms": 4,
+        "bedrooms": 5,
+        "sq_ft": 4000,
+        "amenities": ["Ski-in/Ski-out Access", "Hot Tub", "Fireplace"],
+        "services": ["Ski Equipment Rental", "Mountain Guide"]
+      },
+      "price_per_day": 1200,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKjgE45E4Qov6_xKrQlrJq-KXQImdzNkxMA&usqp=CAU",
+      "rental_type": "villa"
+    },
+    {
+      "name": "Lakefront Cottage",
+      "address": "456 Lakeside Lane",
+      "city": "Lakeland",
+      "state": "Michigan",
+      "zipcode": "48001",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "sq_ft": 1500,
+        "amenities": ["Private Dock", "Fire Pit", "Patio"],
+        "services": ["Boat Rental", "Cleaning Service"]
+      },
+      "price_per_day": 500,
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/43/d2/74/upadhyay-cottages.jpg?w=1200&h=-1&s=1",
+      "rental_type": "cottage"
+    },
+    {
+      "name": "Vineyard Estate",
+      "address": "99 Grapes Galore Road",
+      "city": "Wineville",
+      "state": "California",
+      "zipcode": "94558",
+      "features": {
+        "bathrooms": 6,
+        "bedrooms": 8,
+        "sq_ft": 8000,
+        "amenities": ["Wine Cellar", "Vineyard Views", "Tennis Court"],
+        "services": ["Wine Tasting", "Private Chef"]
+      },
+      "price_per_day": 2000,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYytJAPE4pyXDteeCFjF7AmlSNYSDiZUc1fA&usqp=CAU",
+      "rental_type": "mansion"
+    },
+    {
+      "name": "City View Apartment",
+      "address": "789 Highrise Avenue",
+      "city": "Skyline City",
+      "state": "Texas",
+      "zipcode": "77001",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "sq_ft": 1800,
+        "amenities": ["City Views", "Fitness Center", "Balcony"],
+        "services": ["Security", "Parking"]
+      },
+      "price_per_day": 400,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacB0p0DfMYammrT0N3biVnb8Ssgf0WSqJ5g&usqp=CAU",
+      "rental_type": "apartment"
+    },
+    {
+      "name": "Historic Mansion",
+      "address": "123 Heritage Place",
+      "city": "Historic Town",
+      "state": "Massachusetts",
+      "zipcode": "01001",
+      "features": {
+        "bathrooms": 5,
+        "bedrooms": 7,
+        "sq_ft": 10000,
+        "amenities": ["Gardens", "Library", "Ballroom"],
+        "services": ["Event Planning", "Private Tours"]
+      },
+      "price_per_day": 2500,
+      "image_url": "https://a0.muscache.com/im/pictures/monet/Luxury-20470768/original/cc213ade-c939-4e2f-b0af-0149bda85030?im_w=720",
+      "rental_type": "mansion"
+    },
+    {
+      "name": "Sunny Beach House",
+      "address": "987 Sunshine Blvd",
+      "city": "Sunnytown",
+      "state": "Florida",
+      "zipcode": "33010",
+      "features": {
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "sq_ft": 2500,
+        "amenities": ["Beachfront", "Pool", "Patio"],
+        "services": ["Housekeeping", "Beach Equipment Rental"]
+      },
+      "price_per_day": 1900,
+      "image_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1069804112331233448/original/ffdb1d6b-6d93-445f-81b4-d2d225d36d18.jpeg?im_w=720",
+      "rental_type": "beach house"
+    },
+    {
+      "name": "Modern City Loft",
+      "address": "222 Loft Lane",
+      "city": "Metropolis",
+      "state": "New York",
+      "zipcode": "10001",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "sq_ft": 1500,
+        "amenities": ["City Views", "Open Layout", "Modern Design"],
+        "services": ["24/7 Security", "Cleaning Service"]
+      },
+      "price_per_day": 500,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWP5zD7i-_oOVNR1-e5XTvsu3CuBVDN1MkAw&usqp=CAU",
+      "rental_type": "apartment"
+    },
+    {
+      "name": "Mountain View Cabin",
+      "address": "456 Mountain Road",
+      "city": "Mountaintown",
+      "state": "Colorado",
+      "zipcode": "80401",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "sq_ft": 1800,
+        "amenities": ["Mountain Views", "Fireplace", "Outdoor Deck"],
+        "services": ["Cleaning Service", "Guided Hiking Tours"]
+      },
+      "price_per_day": 600,
+      "image_url": "https://a0.muscache.com/im/pictures/93a253aa-eb7b-4c0b-b099-af47b2a88e8d.jpg?im_w=720",
+      "rental_type": "cabin"
+    },
+    {
+      "name": "Lakefront Retreat",
+      "address": "789 Lakeview Drive",
+      "city": "Lakeville",
+      "state": "Minnesota",
+      "zipcode": "55044",
+      "features": {
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "sq_ft": 2200,
+        "amenities": ["Lakefront Views", "Dock", "Fire Pit"],
+        "services": ["Boat Rental", "Cleaning Service"]
+      },
+      "price_per_day": 700,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-849219248858074696/original/0d9e87f2-acb0-4367-abb1-6b4805fd219b.jpeg?im_w=720",
+      "rental_type": "cabin"
+    },
+    {
+      "name": "Ski Chalet Getaway",
+      "address": "888 Slopeside Avenue",
+      "city": "Snowy Peaks",
+      "state": "Colorado",
+      "zipcode": "80401",
+      "features": {
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "sq_ft": 2500,
+        "amenities": ["Ski-in/Ski-out Access", "Hot Tub", "Fireplace"],
+        "services": ["Ski Equipment Rental", "Mountain Guide"]
+      },
+      "price_per_day": 1000,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMixDrmxPwFGEHd5C6zqi35XzGmyY_uG8mg&usqp=CAU",
+      "rental_type": "chalet"
+    },
+    {
+      "name": "Seaside Cottage",
+      "address": "123 Shoreline Drive",
+      "city": "Seaview",
+      "state": "Maine",
+      "zipcode": "04019",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "sq_ft": 1800,
+        "amenities": ["Beachfront", "Deck", "Fire Pit"],
+        "services": ["Cleaning Service", "Beach Equipment Rental"]
+      },
+      "price_per_day": 600,
+      "image_url": "https://a0.muscache.com/im/pictures/82e3a044-9e2a-4555-9bee-608a862b3c59.jpg?im_w=720",
+      "rental_type": "cottage"
+    },
+    {
+      "name": "Urban Studio Apartment",
+      "address": "456 City Center Street",
+      "city": "Downtown",
+      "state": "California",
+      "zipcode": "90001",
+      "features": {
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "sq_ft": 500,
+        "amenities": ["City Views", "Fitness Center", "Rooftop Terrace"],
+        "services": ["24/7 Security", "Cleaning Service"]
+      },
+      "price_per_day": 1200,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFUCp53jOBV_Fjx-p663a1jB3BMikKHjEZtQ&usqp=CAU",
+      "rental_type": "apartment"
+    },
+    {
+      "name": "Country Farmhouse",
+      "address": "789 Farm Road",
+      "city": "Ruraltown",
+      "state": "Texas",
+      "zipcode": "77001",
+      "features": {
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "sq_ft": 2800,
+        "amenities": ["Wraparound Porch", "Garden", "Fireplace"],
+        "services": ["Housekeeping", "Farm Tours"]
+      },
+      "price_per_day": 1400,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3blI1bVv0cKTcX_we9ffrykS4gStdYUP_A&usqp=CAU",
+      "rental_type": "cabin"
+    },
+    {
+      "name": "Oceanfront Condo",
+      "address": "123 Oceanview Boulevard",
+      "city": "Ocean City",
+      "state": "Florida",
+      "zipcode": "33010",
+      "features": {
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "sq_ft": 1200,
+        "amenities": ["Beachfront", "Pool", "Balcony"],
+        "services": ["Housekeeping", "Beach Equipment Rental"]
+      },
+      "price_per_day": 700,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6FotEJsom_fgbGCI9eISiAlWWL-BJU6nvA&usqp=CAU",
+      "rental_type": "cottage"
+    }
+  ]
+
+
+
+  
