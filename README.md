@@ -1,6 +1,25 @@
-# Real Estate Project:
+# Single Page Real Estate "Rent a Property" Web App
 
-The objective behind the project is to provide a information about the estate to rent on ,where you can search for estate based on the city price and type of estate. also the platform provides the feature to save your favourite estate details.
+hosted link: <a href="https://real-estate-nu-orpin.vercel.app/">link</a>
+
+This project is a Single Page Application (SPA) built using React.js, aimed at facilitating the rental property search process. The web app provides users with an intuitive interface to browse through available properties and apply various filters to refine their search.
+
+**Key Features:**
+
+1. **Filtering Mechanism:** The app offers four levels of filtering options, allowing users to narrow down their search based on location, property type, price range, and amenities. By selecting specific criteria, users can easily find properties that match their preferences.
+
+2. **Favorites Page:** Users have the ability to add specific properties to their favorites list. Upon selecting a property, it can be saved to a separate Favorites page for quick access later on. 
+
+3. **Dummy Data:** The app utilizes dummy data to simulate real-world scenarios, ensuring that users can explore various properties and experience the filtering functionality effectively. Sufficient dummy data is included to showcase the app's capabilities even after applying multiple filters.
+
+**Technology Stack:**
+
+- **React.js:** The frontend of the application is built using React.js, a popular JavaScript library for building user interfaces. React's component-based architecture facilitates the creation of reusable and modular UI elements.
+
+- **HTML/CSS:** Standard HTML and CSS are used for structuring and styling the web pages, ensuring a visually appealing and responsive layout.
+
+
+
 
 ## Getting Started with Create React App
 
