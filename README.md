@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Real Estate Project:
+
+The objective behind the project is to provide a information about the estate to rent on ,where you can search for estate based on the city price and type of estate. also the platform provides the feature to save your favourite estate details.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
